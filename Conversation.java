@@ -1,6 +1,5 @@
-import java.util.Collections;
+
 import java.util.Scanner;
-import java.util.Random;
 
 
 class Conversation { // creates a class called "Conversation"
@@ -21,12 +20,12 @@ class Conversation { // creates a class called "Conversation"
         System.out.println("what is on your mind?");
         for (int r = 0; r < numRounds; r++) {
             String response = input.nextLine();
-
+        // Splits the user's conversation by spaces between each word.
             String[] userConversationStrings = response.split(" ");
             String result = "";
             for (int N = 0; N < userConversationStrings.length; N++) {
 
-              
+        // replaces every mirrored word with another canner words.
                 String compare = userConversationStrings[N];
                 if (compare.toLowerCase().equals("you")) {
                     userConversationStrings[N] = "I";
