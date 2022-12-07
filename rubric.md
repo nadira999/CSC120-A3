@@ -30,7 +30,7 @@ __yes__ 1 pt: Replaces simple mirror words appropriately (unpunctuated, lowercas
 
 ### Level 3 (3 pts)
 
-__Yes___ 1 pt: Makes all appropriate mirror replacements
+__Yes__ 1 pt: Makes all appropriate mirror replacements
 
 ___Yes__ 1 pt: Stores transcript of the conversation in an array
 
