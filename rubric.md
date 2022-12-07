@@ -32,9 +32,9 @@ __yes__ 1 pt: Replaces simple mirror words appropriately (unpunctuated, lowercas
 
 __Yes___ 1 pt: Makes all appropriate mirror replacements
 
-___NO__ 1 pt: Stores transcript of the conversation in an array
+___Yes__ 1 pt: Stores transcript of the conversation in an array
 
-___Partially__ 1 pt: Prints transcript when terminating
+___Yes__ 1 pt: Prints transcript when terminating
 
 ## Kudos:
 
